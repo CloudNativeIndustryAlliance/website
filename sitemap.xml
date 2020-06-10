@@ -4,21 +4,21 @@
   
   <url>
     <loc>/index.json</loc>
-    <lastmod>2020-06-10T15:37:05+08:00</lastmod>
+    <lastmod>2020-06-10T15:40:12+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-10T15:37:05+08:00</lastmod>
+    <lastmod>2020-06-10T15:40:12+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/search/</loc>
-    <lastmod>2020-06-10T15:37:05+08:00</lastmod>
+    <lastmod>2020-06-10T15:40:12+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
